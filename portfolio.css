@@ -59,6 +59,7 @@ nav a:hover{
 .project-link{
     color:orange;
     font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
 }
 .project-link:hover{
     text-decoration: underline;
